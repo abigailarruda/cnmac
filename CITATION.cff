@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Se você usar estes dados ou scripts, cite-os conforme abaixo."
+title: "Repositório de Dados e Prompts do Mapeamento Bibliométrico do CNMAC"
+type: dataset
+authors:
+  - family-names: "Arruda"
+    given-names: "Abigail de J."
+    affiliation: "Instituto de Informática, Universidade Federal de Goiás (UFG)"
+  - family-names: "Silva"
+    given-names: "Hebert C. da"
+    affiliation: "Instituto de Informática, Universidade Federal de Goiás (UFG)"
+repository-code: "https://github.com/abigailarruda/cnmac"
+license: CC-BY-4.0
+# Em breve.
+# doi: ""
+version: "1.0.0"
+date-released: "2026-10-13"
+keywords:
+  - bibliometria
+  - CNMAC
+  - computação gráfica
+  - matemática discreta
+  - redes de coautoria
+language: por
