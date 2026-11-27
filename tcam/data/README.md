@@ -4,11 +4,12 @@ Registro das decisões de coleta, limpeza e correção deste conjunto.
 
 ## Fonte
 
-Anais oficiais do CNMAC, repositório da SBMAC: <https://proceedings.sbmac.org.br/sbmac/issue/archive>.
+Anais oficiais do CNMAC, repositórios da SBMAC:
+- <https://proceedings.sbmac.org.br/sbmac/issue/archive>
+- <https://arquivo.sbmac.org.br/cnmac.php>
 
 ## Estrutura
 
-- `raw/`: coleta inicial, por ano.
 - `clean/`: artigos por ano após a limpeza.
 
 ## Composição
@@ -39,5 +40,3 @@ Não houve edição do evento em 2011, 2013 e 2015 (bienalidade do CNMAC no per�
 ## Relação com o conjunto CNMAC 2026
 
 Este estudo e o de [`cnmac/`](../../cnmac/data/README.md) usam critérios diferentes para decidir quais artigos pertencem à sessão técnica. Para os anos em comum, as contagens podem divergir.
-
-> Em breve.

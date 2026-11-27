@@ -40,5 +40,3 @@ Rede de coautoria institucional: 98 instituições e 92 conexões.
 ## Relação com o conjunto TEMA/TCAM
 
 Este estudo e o de [`tcam/`](../../tcam/data/README.md) usam critérios diferentes para decidir quais artigos pertencem à sessão técnica. Para os anos em comum, as contagens podem divergir.
-
-> Em breve.
